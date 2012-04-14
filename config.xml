@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://faiwer.ru" version="0.9a" defaultlocale="en">
+	<name xml:lang="en">HabrCommentSwitcher</name>
+	<description xml:lang="en">Habrahabr. New comment switcher</description>
+	<description xml:lang="ru">Habrahabr. Переключение новых комментариев</description>
+  	<author href="faiwer.ru" email="faiwer@gmail.com">Faiwer</author>
+  	<icon src="icons/64x64.png"/>
+  	<icon src="icons/48x48.png"/>
+  	<icon src="icons/32x32.png"/>
+</widget>
