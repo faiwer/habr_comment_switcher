@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="http://faiwer.ru" version="0.9a" defaultlocale="en">
+<widget xmlns="http://www.w3.org/ns/widgets" id="github.com/faiwer/habr_comment_switcher" version="0.9a" defaultlocale="en">
 	<name xml:lang="en">HabrCommentSwitcher</name>
 	<description xml:lang="en">Habrahabr. New comment switcher</description>
 	<description xml:lang="ru">Habrahabr. Переключение новых комментариев</description>
