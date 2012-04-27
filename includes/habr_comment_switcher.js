@@ -142,6 +142,7 @@
 			if( this.$items )
 			{
 				this.$items.removeClass( this.c.active + ' ' + this.c.visited );
+				delete this.$items;
 			}
 		}
 	}
